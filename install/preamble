@@ -1,0 +1,8 @@
+self fileInMemberNamed: 'BerkeleyDB.st'.
+Smalltalk platformName = 'Win32' ifTrue:
+	[Transcript show: 'BerkeleyDB: Detected Win32; installing DLLs...'; cr.	(self membersMatching: '*.dll') do: 
+		[ :dll | 
+		dll 
+		  extractToFileNamed: dll fileName
+		  inDirectory: (FileDirectory on: Smalltalk vmPath).		Transcript show: ('BerkeleyDB: installed ', Smalltalk vmPath, dll fileName); cr.]].Transcript show: 'BerkeleyDB: successfully installed'; cr.
+
