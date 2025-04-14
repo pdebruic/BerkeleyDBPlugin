@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBerkeleyDB",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBerkeleyDB",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

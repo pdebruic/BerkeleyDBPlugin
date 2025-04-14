@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"hasHeaderFile" : "svp 5/30/2002 10:49",
+		"requiresCrossPlatformFiles" : "svp 5/30/2002 10:35" },
+	"instance" : {
+		"dbRecordSize" : "svp 5/30/2002 13:47",
+		"dbValueOf:" : "svp 5/24/2002 15:11",
+		"dbcRecordSize" : "svp 6/5/2002 14:34",
+		"dbcValueOf:" : "svp 6/5/2002 14:34",
+		"getErrorMessage:" : "dtl 4/14/2015 22:34",
+		"initialiseModule" : "svp 5/31/2002 17:06",
+		"primitive:db:at:" : "pad 4/11/2015 20:47",
+		"primitive:db:at:put:" : "svp 10/7/2002 14:28",
+		"primitive:db:removeKey:" : "svp 8/15/2002 13:54",
+		"primitive:dbClose:" : "svp 8/15/2002 13:29",
+		"primitive:dbCommit:" : "svp 8/15/2002 13:31",
+		"primitive:dbCursor:" : "svp 8/15/2002 14:39",
+		"primitive:dbCursorClose:" : "svp 8/15/2002 13:37",
+		"primitive:dbCursorNext:" : "svp 8/15/2002 15:01",
+		"primitive:dbOpen:create:" : "svp 8/15/2002 08:22",
+		"primitive:dbVerify:" : "svp 8/15/2002 15:21",
+		"primitiveDbIsValid:" : "svp 6/4/2002 13:37",
+		"shutdownModule" : "svp 5/24/2002 15:13",
+		"sqDbMalloc:" : "pad 4/12/2015 15:48",
+		"stringFromCString:" : "dtl 4/14/2015 22:26" } }

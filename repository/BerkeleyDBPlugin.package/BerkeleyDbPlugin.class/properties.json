@@ -1,0 +1,14 @@
+{
+	"category" : "BerkeleyDBPlugin",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "svp 5/24/2002 16:50",
+	"instvars" : [
+		 ],
+	"name" : "BerkeleyDbPlugin",
+	"pools" : [
+		 ],
+	"super" : "SmartSyntaxInterpreterPlugin",
+	"type" : "normal" }

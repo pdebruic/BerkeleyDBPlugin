@@ -1,0 +1,1 @@
+DatabasePlugin translateDoInlining: true
