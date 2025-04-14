@@ -26,7 +26,7 @@ The first thing you need is to create two directories in your build environment.
 	.../Cross/plugins/BerkeleyDbPlugin/
 	.../<platform>/plugins/BerkeleyDbPlugin/
 
-You should replace "<platform>" with the name of the platform on which you are compiling (i.e. win32, unix, etc).
+You should replace `<platform>` with the name of the platform on which you are compiling (i.e. win32, unix, etc).
 
 The files sqBerkeleyDatabase.c and BerkeleyDbPlugin.h should be placed in the ...Cross/plugins/BerkeleyDbPlugin directory of your build environment.  
 
